@@ -22,7 +22,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Конфигурация бота
-BOT_TOKEN = "TOKEN"  # Замените на ваш токен
+BOT_TOKEN = "8466659548:AAHy00PQiga8zkQbgGsmUAel_rGabZPJpbM"  # Замените на ваш токен
 ADMIN_IDS = {1727085454, 8110533761}  # множество int
 VALUTE = "TON"  # По умолчанию валюта - TON
 
@@ -986,3 +986,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
